@@ -1,7 +1,6 @@
 # Fraud-Detection
 
-This project was handled to finish the Data Science Bootcamp training organized by the VBO organization. In this project, we worked as a group, and it took one month. The group members are:
-- Berkan ACAR
+This project was handled to finish the Data Science Bootcamp training organized by the VBO organization. In this project, we worked as a group, and it took one month. My team mates are:
 - Mert Ozan INAL
 - Muhammed CIMCI
 - Ismail KAYA
